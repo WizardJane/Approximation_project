@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/kate/Desktop/C++/Approximation_project/build",
+  "command": "/usr/bin/c++ -DMATPLOT_BUILD_HIGH_RESOLUTION_WORLD_MAP -DNOMINMAX -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/my_target.dir/graph.cpp.o -c /Users/kate/Desktop/C++/Approximation_project/graph.cpp",
+  "file": "/Users/kate/Desktop/C++/Approximation_project/graph.cpp",
+  "output": "CMakeFiles/my_target.dir/graph.cpp.o"
+}
+]

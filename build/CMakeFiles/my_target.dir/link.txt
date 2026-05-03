@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/my_target.dir/graph.cpp.o -o my_target  -Wl,-rpath,/opt/homebrew/lib /opt/homebrew/lib/libmatplot.1.2.0.dylib
