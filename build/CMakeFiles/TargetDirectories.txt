@@ -1,3 +1,0 @@
-/Users/kate/Desktop/C++/Approximation_project/build/CMakeFiles/my_target.dir
-/Users/kate/Desktop/C++/Approximation_project/build/CMakeFiles/edit_cache.dir
-/Users/kate/Desktop/C++/Approximation_project/build/CMakeFiles/rebuild_cache.dir
